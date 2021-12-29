@@ -1,7 +1,3 @@
-# simplewebpage
-
-# simple_webpage
-
 ## This is the assignment from cs50 week8 pset8 for design a homepage : https://cs50.harvard.edu/x/2021/psets/8/homepage/
 
 
